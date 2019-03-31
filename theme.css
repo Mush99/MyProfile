@@ -1,0 +1,130 @@
+body {
+	font-family: Verdana;
+	background: #2a2a2a;
+	margin: 0;
+	padding: 0;
+	color: white;
+}
+
+.header {
+	text-align: center;
+	padding-top: 2%;
+}
+
+.myface {
+	border-radius: 50%;
+}
+
+.bio {
+	font-size: 32px;
+}
+
+.nav {
+	background-color: #3d3d3d;
+	color: white;
+	list-style: none;
+	text-align: center;
+	font-size: 18px;
+	padding: 20px 0 20px 0;
+}
+
+.nav > li {
+	display: inline-block;
+	padding-right: 50px;
+}
+
+.nav > li > a {
+	text-decoration: none;
+	color: white;
+}
+
+.nav > li >a:hover {
+	color: #8e8e8e;
+}
+
+.ptitle {
+	text-align: center;
+	padding-top: 5%;
+}
+
+.ppara {
+	padding-top: 3%;
+	padding-left: 1%;
+	text-align: center;
+}
+
+.ittitle {
+	text-align: center;
+	padding-top: 5%;
+}
+
+.tpara {
+	padding-top: 3%;
+	padding-left: 1%;
+	text-align: center;
+}
+
+.ittitle {
+	text-align: center;
+	padding-top: 5%;
+}
+
+.tpara {
+	padding-top: 3%;
+	padding-left: 1%;
+	text-align: center;
+}
+
+.jtitle {
+	text-align: center;
+	padding-top: 5%;
+}
+
+.jpara {
+	padding-top: 3%;
+	padding-left: 1%;
+	text-align: center;
+}
+
+.seek {
+	width: 25%;
+	height: 25%;
+	padding-bottom: 2%;
+}
+
+.prtitle {
+	text-align: center;
+	padding-top: 5%;
+}
+
+.prpara {
+	padding-top: 3%;
+	padding-left: 1%;}
+
+.test {
+	text-align: center;
+}
+
+.myers {
+	width: 25%;
+	height: 25%;
+	padding-bottom: 2%;
+	padding-left: 38%;
+}
+
+.protitle {
+	text-align: center;
+	padding-top: 5%;
+}
+
+.propara {
+	padding-top: 3%;
+	padding-left: 1%;
+	text-align: center;
+}
+
+footer {
+	padding-top: 5%;
+	padding-bottom: 2%;
+	text-align: center;
+}
